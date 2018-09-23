@@ -1,0 +1,188 @@
+Tagebuch
+
+Beschaffe Dir ein Tagebuch!
+
+mobius_quest_break
+
+Geld für Arbeiter
+
+Bezahle die beiden Hafenarbeiter des Hafenmeisters!
+
+mobius_quest_break
+
+Der Belästiger
+
+Beseitige den Mann, der die Frau des Hafenmeisters belästigt!
+
+mobius_quest_break
+
+Qual der Wahl
+
+Wähle eine Klasse und kehre zu Luman und Burani zurück.
+
+mobius_quest_break
+
+Rebellensuche
+
+Suche die Rebellen im Untergrund und befrage sie.
+Kehre danach zu Burani zurück.
+
+mobius_quest_break
+
+Training
+
+Branok, Luman und Varas müssen die zweite Ausbildungsstufe erreichen, um für die bevorstehenden Prüfungen gewappnet zu sein.
+
+mobius_quest_break
+
+Ein Käffchen
+
+Treibe einen Kaffee auf und 
+geh damit zu Tollus.
+
+mobius_quest_break
+
+Der Untergrund
+
+Verschaffe dir Zugang zum Untergrund. Besorge dir dafür Bomben bei Golsmer, den Schlüssel bei einem Kampfmagier im Osten oder das Passwort im Süden.
+
+mobius_quest_break
+
+Verrückter Vrank
+
+Erledige den verrückten Vrank und kehre zu Midget zurück.
+
+mobius_quest_break
+
+Rückenprobleme
+
+Finde eine Mittel gegen die Rückenbeschwerden der alten Frau im Norden
+der Hafenstadt.
+
+mobius_quest_break
+
+Der Informant
+
+Suche Herbarius' Informanten. Er zeichnet sich durch seine auffällige Hautfarbe aus.
+
+mobius_quest_break
+
+Die Plage
+
+Beseitige die Höhlenratten-
+Plage, die die Höhlen unter der Stadt befallen hat!
+
+mobius_quest_break
+
+Training!
+
+Trainiere mit 3 Rebellen, bevor du die Basis der Gongzas infiltrierst!
+Kehre zu Rebellus zurück, sobald du fertig trainiert hast.
+
+mobius_quest_break
+
+Infiltration
+
+Infiltriere die Basis der 
+Gongzas und schlate den Gongza-Anführer aus!
+
+mobius_quest_break
+
+Teleport
+
+Aktiviere alle Teleportiersäulen!
+
+mobius_quest_break
+
+Der Magier
+
+Wir müssen den Magier in der Klamm Vorstadt aufsuchen.
+
+mobius_quest_break
+
+Ganovenjagd
+
+Beseitige die Ganoven an der Quelle des Lebens!
+Kehre dann zu Marius zurück.
+
+mobius_quest_break
+
+Zwischenwelt
+
+Rede mit Portus in der Minen-
+stadt, nachdem du mit Burani 
+gesprochen hast.
+
+mobius_quest_break
+
+Ebenenfedern
+
+Sammle 10 Ebenenfedern von den Ebenenhühnern und kehre zu dem Händler im Zelt zurück.
+
+mobius_quest_break
+
+Rudeljagd
+
+Finde das Rudel, dass die Torwachen der Kaserne bedrängt und beseitige es!
+
+mobius_quest_break
+
+Sammlerpfeile
+
+Finde die Pfeile von Peter Feil und bringe sie zu ihm zurück.
+
+mobius_quest_break
+
+Die erste Jagd
+
+Jage drei wilde Moorhühner und kehre mit den Jagdtrophäen zu Peter 
+Feil zurück!
+
+mobius_quest_break
+
+Minendiebe
+
+Wir müssen die Diebe in der 
+Mine beseitigen, damit uns der Weg aus der Minenstadt freigeräumt wird.
+
+mobius_quest_break
+
+Monsterbefall
+
+Töte 7 Skorpide in den Minen
+der Minenstadt.
+
+mobius_quest_break
+
+Skorpidstachel
+
+Besorge der Freundin von Lesvia in der Minenstadt 10 Skorpidstachel.
+
+mobius_quest_break
+
+Die Portale
+
+Vermutlich werden die Risse im Raum von den Portalen verursacht.
+Wir müssen uns mit dem König in der Schlossstadt treffen.
+Er wird uns sagen können wo die Magiermeister sich aufhalten.
+
+mobius_quest_break
+
+Das Dorf
+
+Wir haben einen komischen
+Wanderer vor einem Dorf im
+Dryswald gefunden. Er meint
+mit dem Dorf stimmt etwas 
+nicht.
+Scheinbar hat es etwas mit 
+einem großen Krater zu tun.
+
+mobius_quest_break
+
+Elternsuche
+
+Ich muss die Eltern des kleinen Jungen finden, den ich auf dem Marktplatz der Schlossstadt gefunden habe.
+
+mobius_quest_break
+

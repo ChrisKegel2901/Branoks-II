@@ -1,0 +1,8 @@
+Schwert:	1
+Speer:		2
+Bogen:		3
+Axt:		4
+Magier:		5
+K. Magier:	6
+Mönch:		7
+Dieb:		8

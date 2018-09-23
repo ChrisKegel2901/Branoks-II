@@ -1,0 +1,6 @@
+magier süden 2
+schwert westen 1
+bogen/axt wald 2
+Dieb Osten 1
+Mönch Tempel 1
+Speer Festung 1

@@ -1,0 +1,4 @@
+1. Layer: texture4.jpg Gaußscher Weichzeichner wert 30
+2. layer: bild / ebenenmodus harte kanten
+3. layer: bild / ebenenmodus überlagern
+4. layer: texture4.jpg
