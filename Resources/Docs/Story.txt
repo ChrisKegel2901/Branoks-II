@@ -1,0 +1,26 @@
+Story ab Schlossstadt
+
+1. Party muss zum Schloss wg. Gespräch mit Vertreter des Königs.
+2. Eingang von Wachen versperrt.
+	-> Man braucht Empfehlung von Kardinal
+3. Gespräch mit Kardinal
+	-> Für Empfehlung: Gruft-Sidequest
+	-> Enddialog Kardinal Referenz auf Missbrauch
+4. Thronsaal wird betreten, Vertreter lässt Party steigen
+	1. Aufgabe: Unnötigen Gegenstand besorgen
+	2. Aufgabe: Vertreter weg, man findet ihn im Puff
+		-> Cutscene Thronsaal (morgen wieder kommen)
+		-> Cutscene Inn (Party ist skeptisch)
+	3. Aufgabe: Überfall von Sekte (Glühweins), Vertreter gefangen genommen
+		-> In Kasino
+		-> Befreiung Vertreter
+	Ende: Es stellt sich heraus, der Vertreter weiß nicht wo die Magiermeister sind
+5. Andere Informationsquelle finden (-> Untergetauchte Königin)
+	-> Man wird von Wache über Aufenthalt informiert oder über Person die es wissen könnte
+6. Königin gefunden
+	-> Rückblick auf Gongza-Überfall
+	-> Erzählung über Portale
+	-> Information über Aufenthalt der Magiermeister (-> Burg Schneestein)
+7. Schlossstadt wird angegriffen durch Portale die aufgehen
+	-> Königin bittet die Truppe schleunigst zu den Magiermeistern zu gehen
+	-> Schlossstadt verriegelt, aber Königin verrät anderen Ausgang.
